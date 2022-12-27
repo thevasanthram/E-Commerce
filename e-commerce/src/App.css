@@ -1,3 +1,21 @@
-.App {
-  text-align: center;
+#main {
+}
+
+@media screen and (max-width: 1120px) {
+  #main{
+
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  #main{
+    
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #main{
+    
+  }
 }
