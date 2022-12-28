@@ -6,8 +6,8 @@ function NavBar() {
     <div className='navBarDivision'>
       <img src={eCommerceLogo} alt='logo' className='eCommerceLogo' />
       <input type='text' name='searchBarValue' className='searchBar' />
-      <p className='navBarCart'>Cart</p>
-      <p className='navBarProfile'>Profile</p>
+      <p className='navBarCart navBarItems'>Cart</p>
+      <p className='navBarProfile navBarItems'>Profile</p>
     </div>
   );
 }
